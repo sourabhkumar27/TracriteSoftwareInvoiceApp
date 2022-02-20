@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceApp", "InvoiceApp\InvoiceApp.csproj", "{971B9B2F-56C9-466E-9A28-12DD2B70B45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971B9B2F-56C9-466E-9A28-12DD2B70B45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971B9B2F-56C9-466E-9A28-12DD2B70B45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971B9B2F-56C9-466E-9A28-12DD2B70B45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971B9B2F-56C9-466E-9A28-12DD2B70B45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64456EC2-E878-4236-8DBE-7BFAD546025A}
+	EndGlobalSection
+EndGlobal
